@@ -1,0 +1,30 @@
+.orange-text {
+  color: #fa804c;
+}
+.btn-buy {
+  background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  color: white;
+}
+.small-text {
+  color: #3e3e3e;
+}
+.section {
+  margin-top: 8em;
+}
+.section-heading {
+  color: #3e3e3e;
+}
+.card-header-text {
+  color: #363958;
+}
+.card-h3 {
+  color: #fa804c;
+}
+.bg-img {
+  background: #f1f1f1;
+  border-radius: 15px;
+}
+.icon-image {
+  width: 5em;
+  height: auto;
+}
